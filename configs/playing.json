@@ -2,9 +2,9 @@
   "playing": {
     "players": "auto",
 
-    "roles": null,
+    "roles": ["vanilla_townie", "vanilla_townie", "vanilla_townie", "vanilla_townie", "vanilla_townie", "mailman", "doctor", "escort", "sheriff", "godfather", "mafioso", "mafioso", "traitor", "serial_killer", "survivor"]
 
-    "expansions": ["c9++"],
+    "expansions": [],
     "shuffle": true,
     "flavour": null
 
