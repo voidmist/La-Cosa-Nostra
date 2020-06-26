@@ -4,7 +4,7 @@
 
     "roles": ["vanilla_townie", "vanilla_townie", "vanilla_townie", "vanilla_townie", "vanilla_townie", "mailman", "doctor", "escort", "sheriff", "godfather", "mafioso", "mafioso", "traitor", "serial_killer", "survivor"]
 
-    "expansions": [],
+    "expansions": null,
     "shuffle": true,
     "flavour": null
 
