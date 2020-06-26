@@ -1,11 +1,11 @@
 {
   "permissions": {
-    "admin": "Host",
+    "admin": "Narrator",
     "alive": "Alive",
     "dead": "Dead",
     "spectator": "Spectator",
-    "aftermath": "Season Player",
-    "pre": "Participant",
+    "aftermath": "Post-Game Player",
+    "pre": "Signed-Up",
     "notify": "Notify"
   }
 }
