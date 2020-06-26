@@ -18,9 +18,9 @@
 
     "lynch": {
       "top-voted-lynch": true,
-      "top-voted-lynch-minimum-votes": 0,
+      "top-voted-lynch-minimum-votes": 1,
 
-      "tied-random": false,
+      "tied-random": true,
 
       "allow-hammer": true,
       "no-lynch-option": true
@@ -58,7 +58,7 @@
 
     "cause-of-death": {
       "hide-day": false,
-      "hide-night": true,
+      "hide-night": false,
       "exceptions": ["modkill"]
     }
 
