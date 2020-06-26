@@ -1,9 +1,9 @@
 {
   "channels": {
-    "log": "logbook",
+    "log": "daily-log",
     "voting": "trial",
-    "main": "city-hall",
-    "whisper-log": "billboard",
+    "main": "town-hall",
+    "whisper-log": "city-square",
     "roles": "game-info",
 
     "welcome-channel": "general"
